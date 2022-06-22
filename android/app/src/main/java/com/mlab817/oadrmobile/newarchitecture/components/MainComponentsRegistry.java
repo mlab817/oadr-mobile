@@ -1,4 +1,4 @@
-package com.oadrmobile.newarchitecture.components;
+package com.mlab817.oadrmobile.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
